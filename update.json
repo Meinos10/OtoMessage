@@ -1,7 +1,12 @@
 [
     {
         "id": 0,
-        "title": "V3.0.11 - NewVersion",
+        "title": "V3.0.11",
         "about": "Artık güncellemeleri bot üzerinden takip edip yeni güncelleme talebinden @ReWoxi den talepte bulunabilirsiniz! ☕"
+    },
+    {
+        "id": 1,
+        "title": "V4.0.0",
+        "about": "ReklamV4 bir süre sonra sizlerle 🥳"
     }
 ]
